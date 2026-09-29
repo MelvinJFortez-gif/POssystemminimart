@@ -1,0 +1,2 @@
+# POssystemminimart
+MinimartPOS
